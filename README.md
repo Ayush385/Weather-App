@@ -1,2 +1,5 @@
-# Weather-App
-A simple webpage displaying information about weather. Created using HTML CSS and basic JAVASCRIPT
+### Weather App
+
+> serach for a city to live weather details
+
+API Used - [Weather API - OpenWeatherMap](https://openweathermap.org/api)
